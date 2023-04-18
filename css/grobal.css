@@ -23,6 +23,11 @@ img {
     border-radius: 50px;
 }
 
+.link-site{
+    text-decoration: none;
+    font-weight: bold;
+    color:#9bb61b ;
+}
 
 .subtitulo {
     font-size: 8rem;
